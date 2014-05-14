@@ -24,4 +24,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=nakasi BUILD_FINGERPRINT="google/na
 
 # bootanimation
 PRODUCT_COPY_FILES += \
-        vendor/illusion/bootanimation/Illusion768x768.zip:system/media/bootanimation.zip
+        vendor/illusion/bootanimation/768x1280.zip:system/media/bootanimation.zip
